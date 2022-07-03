@@ -33,7 +33,7 @@
   .actions button:active {
     background-color: #5a1a01;
     border-color: #5a1a01;
-    color: white;
+    color: rgb(179, 67, 67);
   }
   
   .actions .button--alt {
