@@ -7,7 +7,7 @@
 [ Analyzing the Bundle Size]
 ### `npm start`
 
-*https://reactjs.org/
+* [React](https://reactjs.org/docs/getting-started.html)
 
 ### `npm test`
 
