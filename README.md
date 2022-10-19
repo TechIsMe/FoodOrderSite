@@ -1,14 +1,10 @@
 # Perssonal Portfolio
 
-# Table of contents
-  * [over views](#Learn More)
-     * [over views](#Code Splitting)
-
 Table of Contents
 =================
 
   * [Dockerfile.vim](#dockerfilevim)
-  * [Screenshot](#Learn More)
+  * [Screenshot](##Learn More)
   * [Installation](#installation)
         * [OR using Pathogen:](#or-using-pathogen)
         * [OR using Vundle:](#or-using-vundle)
