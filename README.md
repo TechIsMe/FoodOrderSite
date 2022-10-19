@@ -1,18 +1,5 @@
 # Perssonal Portfolio
 
-Table of Contents
-=================
-*Overview
-  * [description info](#description info)
-  * [Lear More](##Learn More)
-  * [Design](#Design)
-  * [License](#license)
-
-## Available Scripts
-
-[ Analyzing the Bundle Size]
-### `npm start`
-
 * [React](https://reactjs.org/docs/getting-started.html)
 
 ### `npm test`
