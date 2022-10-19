@@ -18,7 +18,12 @@ Table of Contents
 * [React](https://reactjs.org/docs/getting-started.html)
 
 ### `npm test`
-
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
 
 ### `npm run build`
 
