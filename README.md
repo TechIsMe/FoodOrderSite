@@ -2,12 +2,10 @@
 
 Table of Contents
 =================
-
-  * [Dockerfile.vim](#dockerfilevim)
-  * [Screenshot](##Learn More)
-  * [Installation](#installation)
-        * [OR using Pathogen:](#or-using-pathogen)
-        * [OR using Vundle:](#or-using-vundle)
+*Overview
+  * [description info](#description info)
+  * [Lear More](##Learn More)
+  * [Design](#Design)
   * [License](#license)
 
 ## Available Scripts
@@ -24,8 +22,8 @@ Table of Contents
 
 ## Headers
 
-### `npm run build`
-
+### Design
+![candy](https://user-images.githubusercontent.com/93556946/196767217-6f20c146-88e0-4ae3-b367-a9a343337b40.PNG)
 
 ### `npm run eject`
 
