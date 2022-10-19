@@ -1,8 +1,8 @@
 # Perssonal Portfolio
 
 # Table of contents
-  * [over views](### `npm test`)
-     * [over views](### `npm test`)
+  * [over views](#Learn More)
+     * [over views](#Code Splitting)
 
 ## Available Scripts
 
