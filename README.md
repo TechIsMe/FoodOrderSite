@@ -4,6 +4,16 @@
   * [over views](#Learn More)
      * [over views](#Code Splitting)
 
+Table of Contents
+=================
+
+  * [Dockerfile.vim](#dockerfilevim)
+  * [Screenshot](#screenshot)
+  * [Installation](#installation)
+        * [OR using Pathogen:](#or-using-pathogen)
+        * [OR using Vundle:](#or-using-vundle)
+  * [License](#license)
+
 ## Available Scripts
 
 [ Analyzing the Bundle Size]
