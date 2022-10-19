@@ -20,7 +20,7 @@ Table of Contents
 ### `npm test`
 ##### Table of Contents  
 [Headers](#description-info)  
-[Emphasis](#emphasis)  
+[Author](#Author)  
 
 ## Headers
 
@@ -40,7 +40,8 @@ what i have worked on is
 
 
 
-### Analyzing the Bundle Size
+### Author
+Bruktawit Wold
 
 
 
