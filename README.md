@@ -34,7 +34,7 @@ Table of Contents
 
 
 ## Learn More
-
+what i have worked on is 
 
 ### Code Splitting
 
@@ -47,12 +47,4 @@ Table of Contents
 ### Making a Progressive Web App
 
 
-### Advanced Configuration
-
-
-### My process
-
-
-
-### `npm run build` fails to minify
 
