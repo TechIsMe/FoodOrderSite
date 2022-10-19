@@ -19,10 +19,9 @@ Table of Contents
 
 ### `npm test`
 ##### Table of Contents  
-[Headers](#headers)  
+[Headers](#description-info)  
 [Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
+
 ## Headers
 
 ### `npm run build`
@@ -34,7 +33,7 @@ Table of Contents
 
 
 
-## Learn More
+## description info
 what i have worked on is 
 
 ### Code Splitting
